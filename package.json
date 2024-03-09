@@ -1,0 +1,19 @@
+{
+  "name": "fire-react-jsx-ssr-gzip",
+  "version": "1.0.1",
+  "description": "Simple, small live gzip plugin for FireJSX",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ujjibalu12/fire-react-jsx-ssr-gzip.git"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "compression": "^1.7.4",
+    "fire-react-jsx-ssr": "^0.10.2"
+  },
+  "files": [
+    "index.js"
+  ]
+}
